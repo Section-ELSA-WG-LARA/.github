@@ -1,3 +1,5 @@
+# Working Group Concept
+
 Modern research is more and more data driven. In theory, the data could be
 reused. But often when reusing existing data the unclear legal aspects, such as
 missing or undefined licensing terms, hinders researchers and the progress of
